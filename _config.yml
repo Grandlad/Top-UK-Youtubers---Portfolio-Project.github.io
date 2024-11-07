@@ -1,6 +1,6 @@
 title: Mateusz
 logo: assets/images/profile_pic.png
 show_downloads: True
-remote_theme: pages-themes/minial@v0.2.0
+remote_theme: jekyll-theme-minimal
 plugins:
 - jekyll 3.9.4-remote-theme
