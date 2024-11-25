@@ -30,6 +30,6 @@ Welcome to my portfolio website :)!
   - [Potential Courses of Actions](#potential-courses-of-actions)
 - [Conclusion](#conclusion)
   - [Potential Courses of Actions](#potential-courses-of-actions)
--[Conclusion](#conclusion)
+- [Conclusion](#conclusion)
 
   
