@@ -47,5 +47,24 @@ This data will be helpful for marketing team to make informed decisions about fu
 
 # Data Source
 
-Data has been sourced from Kaggle (an Excel extract)
+Data has been sourced from Kaggle (an Excel extract: https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
+
+# Stages
+
+- Design,
+- Development,
+- Testing,
+- Analysis.
+
+# Design
+
+Data Visuals that can be helpful to determine client needs:
+
+1. Table
+2. Treemap
+3. Scorecards
+4. Horizontal bar chart
+
+
+
 
