@@ -33,3 +33,19 @@ Welcome to my portfolio website :)!
 - [Conclusion](#conclusion)
 
   
+# Objective
+
+  Head Marketing to decide who are the top YouTubers in 2024 and verify which ones would be best ones to run their marketing campaings through the next year.
+
+  The solution will be to create a dashboard which will provide insights into YouTubers metrics, such as:
+  - Total subscriber count,
+  - Total views,
+  - Total videos,
+  - Engagement metrics.
+
+This data will be helpful for marketing team to make informed decisions about further collaboration with the YouTubers.
+
+# Data Source
+
+Data has been sourced from Kaggle (an Excel extract)
+
