@@ -29,7 +29,7 @@ Welcome to my portfolio website :)!
   - [Potential ROI](#potential-roi)
   - [Potential Courses of Actions](#potential-courses-of-actions)
 - [Conclusion](#conclusion)
-  -[Potential Courses of Actions](#potential-courses-of-actions)
+  - [Potential Courses of Actions](#potential-courses-of-actions)
 -[Conclusion](#conclusion)
 
   
