@@ -65,5 +65,5 @@ Data Visuals that can be helpful to determine client needs:
 3. Scorecards
 4. Horizontal bar chart
 
-![Dashboard-Mockup](assets/images/dashboard_mockup.jpg)
+![Dashboard-Mockup](assets/images/dashboard_mockup.png)
 
