@@ -15,7 +15,7 @@ Welcome to my portfolio website :)!
   -[Data Exploration](#data-exploration)
   -[Data Cleaning](#data-cleaning)
   -[Transform the Data](#transform-the-data)
-  -[Create the SQL View](#create-the-SQL-view)
+  -[Create the SQL View](#create-the-sql-view)
 -[Testing](#testing)
   -[Data Quality Tests](#data-quality-tests)
 -[Visualization](#Visualistaion)
