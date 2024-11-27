@@ -291,3 +291,31 @@ RETURN viewsPerSubscriber
 
 ```
 
+# Analysis
+
+## Outcome
+
+Main points that where targeted for the client:
+
+1. Top 10 YouTubers with most subscribers.
+2. Top 3 channels with most videos uploaded.
+3. Top 3 channels with the most views.
+4. Top 3 channels with highest avg views per video.
+5. Top 3 channels with the highest views per subsriber ratio.
+6. Top 3 channels with the highest subscriber engagement rate per video uploaded.
+
+
+## Top 10 youtubers with the most subscribers
+
+| Rank | Channel Name | Subscribers (M) |
+| --- | ---|
+| 1 |  | |
+| 2 |  | |
+| 3 |  | |
+| 4 |  | |
+| 5 |  | |
+| 6 |  | |
+| 7 |  | |
+| 8 |  | |
+| 9 |  | |
+| 10 |  | |
