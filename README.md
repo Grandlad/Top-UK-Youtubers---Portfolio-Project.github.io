@@ -305,17 +305,25 @@ Main points that where targeted for the client:
 6. Top 3 channels with the highest subscriber engagement rate per video uploaded.
 
 
-## Top 10 youtubers with the most subscribers
+### Top 10 youtubers with the most subscribers.
 
-| Rank | Channel Name | Subscribers (M) |
-| --- | ---|
-| 1 |  | |
-| 2 |  | |
-| 3 |  | |
-| 4 |  | |
-| 5 |  | |
-| 6 |  | |
-| 7 |  | |
-| 8 |  | |
-| 9 |  | |
-| 10 |  | |
+| Rank | Channel Name         | Subscribers (M) |
+|------|----------------------|-----------------|
+| 1    | NoCopyrightSounds    | 33.60           |
+| 2    | DanTDM               | 28.60           |
+| 3    | Dan Rhodes           | 26.50           |
+| 4    | Miss Katy            | 24.50           |
+| 5    | Mister Max           | 24.40           |
+| 6    | KSI                  | 24.10           |
+| 7    | Jelly                | 23.50           |
+| 8    | Dua Lipa             | 23.30           |
+| 9    | Sidemen              | 21.00           |
+| 10   | Ali-A                | 18.90           |
+
+### Top 3 channels with the most videos.
+
+| Rank | Channel Name         | Videos Uploaded |
+|------|----------------------|-----------------|
+| 1    | GRM Daily            | 14,696          |
+| 2    | Manchester City      | 8,248           |
+| 3    | Yogscast             | 6,435           |
